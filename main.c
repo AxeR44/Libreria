@@ -15,7 +15,7 @@
 #include <stdlib.h>
 #include <stddef.h>
 #include <string.h>
-#include "funzioni.h"
+#include "include/funzioni.h"
 
 void riempiLibreria(int, archivio*);
 

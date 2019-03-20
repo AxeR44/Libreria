@@ -1,0 +1,4 @@
+To compile execute:
+$gcc main.c include/funzioni.c -o <output_executable_name>
+
+Sort function not yet implemented
